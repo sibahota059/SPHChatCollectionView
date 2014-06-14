@@ -6,7 +6,10 @@ SPHChatCollectionView to use in chat screens. (Supports iOS 7)
 
 This project is an attempt to create the experience of chat bubbles with image , time and avatar support.
 
-![Screenshot](/WithTime.png)
+![Screenshot](/WithTime.png)(https://www.youtube.com/watch?v=AOC-L2TuuHs)
+
+
+
 
 To see the code in action, download the app:
 
