@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=AOC-L2TuuHs
 5. Data detectors (recognizes phone numbers, links, dates, etc.)
 6. Timestamps
 7. Avatars
-8. Subtitles
+8. Bouncing Effect like message app. (see the video on you tube)
 
 ### How To Contribute
 It's easy.
