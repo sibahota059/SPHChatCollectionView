@@ -8,6 +8,8 @@ This project is an attempt to create the experience of chat bubbles with image ,
 
 ![Screenshot](/WithTime.png)
 
+![Screenshot2](/Bluebubble.png) 	
+
 To see the code in action, download the app:
 
 ### Conciergist
