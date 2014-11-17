@@ -7,10 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SPH_PARAM_List.h"
+
 
 @interface SPHCollectionViewcell : UICollectionViewCell
 
 
-
+-(void)setFeedData:(SPH_PARAM_List *)feed_data;
 
 @end
