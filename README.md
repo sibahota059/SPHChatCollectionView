@@ -1,7 +1,7 @@
 SPHChatCollectionView
 =====================
 
-SPHChatCollectionView to use in chat screens. (Supports iOS 7)
+SPHChatCollectionView to use in chat screens. (Supports iOS 8)
 
 
 This project is an attempt to create the experience of chat bubbles with image , time and avatar support.
