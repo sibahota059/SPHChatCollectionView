@@ -3,6 +3,8 @@ SPHChatCollectionView
 
 SPHChatCollectionView to use in chat screens. (Supports iOS 8)
 
+Note : if you want to use Tableview, pls check here: https://github.com/sibahota059/FlatChatBubble
+
 
 This project is an attempt to create the experience of chat bubbles with image , time and avatar support.
 
