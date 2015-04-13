@@ -1,6 +1,8 @@
 SPHChatCollectionView
 =====================
 
+[![Join the chat at https://gitter.im/sibahota059/SPHChatCollectionView](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sibahota059/SPHChatCollectionView?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 SPHChatCollectionView to use in chat screens. (Supports iOS 8)
 
 Note : if you want to use Tableview, pls check here: https://github.com/sibahota059/FlatChatBubble
